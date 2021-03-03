@@ -1,20 +1,31 @@
 #jb1 {
-    height: 350;
-    width: 350;
+    height: 550;
+    width: 550;
 }
 #ul1 {
-    padding-left: 800px;
+    text-align: left;
+    padding-left: 800;
 }
 #tribute-info {
     text-align: center;
 }
 #a1 {
-    padding-left: 800;
-
+    text-align: left;
+    padding-left: 900;
 }
 #h1 {
     text-align: center;
 }
 #main {
-    background-color: steelblue;
+    background-color: rgb(241, 43, 8);
+}
+#figcaption {
+    padding-left: 800;
+}
+#p1 {
+    
+    text-align: center;
+}
+#a2 {
+    color:rgb(34, 36, 211);
 }
