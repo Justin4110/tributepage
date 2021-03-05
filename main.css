@@ -14,18 +14,32 @@
     padding-left: 900;
 }
 #h1 {
-    padding-top: 10;
+    padding-top: 00;
     text-align: center;
 }
 #main {
-    background-color: rgb(241, 43, 8);
+    background-color: rgb(14, 129, 24);
 }
 #figcaption {
     padding-left: 800;
 }
-#a2 {
+#tube {
     color:rgb(34, 36, 211);
 }
 #tribute-link {
+    color:rgb(34, 36, 211);
+}
+#school {
+    color:rgb(34, 36, 211);
+}
+#dio {
+    color:rgb(34, 36, 211);
+}
+#bern {
     color:rgb(34, 36, 211)
+}
+#h2 {
+    flood-color:#000000;
+    text-align:center;
+    font-size: 8;
 }
