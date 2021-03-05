@@ -13,7 +13,7 @@
     text-align: center;
 }
 #main {
-    background-color: rgb(14, 129, 24);
+    background-color: rgb(78, 189, 87);
 }
 #img-caption {
     padding-left: 800;
@@ -43,7 +43,7 @@
 .center {
     display: block;
     max-width: 100%;
-    height: 580px;
+    height: 580;
     margin-right: auto;
     margin-left: auto;
 }
