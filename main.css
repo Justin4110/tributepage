@@ -13,7 +13,7 @@
     text-align: center;
 }
 #main {
-    background-color: rgb(78, 189, 87);
+    background-image: linear-gradient(to top left, rgb(238, 38, 138), rgb(247, 232, 31));
 }
 #img-caption {
     padding-left: 800;
